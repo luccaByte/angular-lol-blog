@@ -1,0 +1,28 @@
+.container-content {
+    border: 1px solid white;
+    width: 100%;
+    height: 100vh;
+
+    margin-top: 20px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+.content-cover > img {
+    border: 3px solid rgb(146, 146, 146);
+    border-radius: 5px;
+    width: 500px;
+    min-width: 500px;
+    height: 300px;
+}
+
+.content-description {
+    margin-top: 10px;
+}
+
+.content-description > p {
+    color: rgb(170, 170, 170);
+}
