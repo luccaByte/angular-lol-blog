@@ -16,4 +16,5 @@
 .conteiner-menu-title > hr {
     margin-top: 20px;
     margin-bottom: 5px;
+    border-color: rgb(77, 77, 77);
 }

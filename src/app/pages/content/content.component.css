@@ -24,5 +24,8 @@
 
 .content-description > p {
     margin-top: 20px;
+    margin-bottom: 30px;
+    width: 800px;
+    text-align: justify;
     color: rgb(170, 170, 170);
 }
