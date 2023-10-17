@@ -6,3 +6,19 @@
     justify-content: center;
 }
 
+hr {
+    border-color: rgb(77, 77, 77);
+}
+h3 {
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+.container-more-cards {
+    margin-left: 50px;
+    margin-top: 50px;
+    
+    display: flex;
+    align-items: baseline;
+    
+}
